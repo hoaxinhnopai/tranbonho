@@ -73,7 +73,7 @@ document[_0x1dc45a(0xa2)](_0x1dc45a(0x8c), function () {
 });
 function _0x246a() {
   const _0x1d637a = [
-    "Nhớ\x20nhớ\x20nhớ\x20em!",
+    "Nhớ\x20nhớ\x20nhớ\x20anh!",
     "13908hEyGYM",
     "11802024qVfstF",
     "innerHTML",
