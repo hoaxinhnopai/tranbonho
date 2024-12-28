@@ -20,6 +20,8 @@ h1 {
   left: 50%;
   font-size: 50px;
   transform: translateX(-50%);
+  text-align: center;
+  color: white;
 }
 a {
   position: fixed;
