@@ -11,6 +11,7 @@ html, body {
   overflow: hidden;
   background-image: url('https://i.ibb.co/TRLGsF1/z6162829580231-2d85dbf8885b527795b99419949d4081.jpg');
   background-position: bottom;
+  background-size: cover;
 }
 
 h1 {
